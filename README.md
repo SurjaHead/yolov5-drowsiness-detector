@@ -3,7 +3,6 @@
 <h1 align="center">YOLOv5 Drowsiness Detector</h1>
 
 <div align="center">
-  <a href="https://example.com">
     <img src="drowsiness-detector.mp4" alt="Project Demo">
     <p>Watch Demo Video</p>
   </a>
